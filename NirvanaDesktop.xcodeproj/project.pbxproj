@@ -475,6 +475,7 @@
 				0AC346141D6602D800F245AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AC346151D6602D800F245AE /* Build configuration list for PBXNativeTarget "NirvanaDesktopTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +484,7 @@
 				0AC346171D6602D800F245AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AC346181D6602D800F245AE /* Build configuration list for PBXNativeTarget "NirvanaDesktopUITests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +493,7 @@
 				0AC3461A1D6602D800F245AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

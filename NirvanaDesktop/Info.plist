@@ -30,7 +30,7 @@
 		<true/>
 	</dict>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2016 Kevin Cox. All rights reserved.</string>
+	<string>Copyright © 2016 Kevin Cox. Website: https://github.com/jibberia/NirvanaDesktop  NOTE! This is completely unaffiliated with Nirvana and People Like Us. For more information, visit https://nirvanahq.com</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSPrincipalClass</key>
