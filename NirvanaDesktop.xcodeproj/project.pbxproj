@@ -13,7 +13,6 @@
 		0AC345F81D6602D800F245AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC345F61D6602D800F245AE /* Main.storyboard */; };
 		0AC346031D6602D800F245AE /* NirvanaDesktopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC346021D6602D800F245AE /* NirvanaDesktopTests.swift */; };
 		0AC3460E1D6602D800F245AE /* NirvanaDesktopUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC3460D1D6602D800F245AE /* NirvanaDesktopUITests.swift */; };
-		0AC346241D672E0B00F245AE /* nirvana-icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AC346231D672E0B00F245AE /* nirvana-icon-1024.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +45,6 @@
 		0AC346091D6602D800F245AE /* NirvanaDesktopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NirvanaDesktopUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AC3460D1D6602D800F245AE /* NirvanaDesktopUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NirvanaDesktopUITests.swift; sourceTree = "<group>"; };
 		0AC3460F1D6602D800F245AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0AC346231D672E0B00F245AE /* nirvana-icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nirvana-icon-1024.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +100,6 @@
 				0AC345F41D6602D800F245AE /* Assets.xcassets */,
 				0AC345F61D6602D800F245AE /* Main.storyboard */,
 				0AC345F91D6602D800F245AE /* Info.plist */,
-				0AC346231D672E0B00F245AE /* nirvana-icon-1024.png */,
 			);
 			path = NirvanaDesktop;
 			sourceTree = "<group>";
@@ -231,7 +228,6 @@
 			files = (
 				0AC345F51D6602D800F245AE /* Assets.xcassets in Resources */,
 				0AC345F81D6602D800F245AE /* Main.storyboard in Resources */,
-				0AC346241D672E0B00F245AE /* nirvana-icon-1024.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
