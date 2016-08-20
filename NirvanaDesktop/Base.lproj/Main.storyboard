@@ -380,7 +380,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="480" height="270"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
-                            <webView ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vWb-By-4ho">
+                            <webView ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="vWb-By-4ho" customClass="NirvanaWebView" customModule="NirvanaDesktop" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="0.0" width="480" height="270"/>
                                 <webPreferences key="preferences" defaultFontSize="12" defaultFixedFontSize="12">
                                     <nil key="identifier"/>

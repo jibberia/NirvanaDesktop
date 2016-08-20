@@ -17,6 +17,12 @@ class MainWindowController: NSWindowController {
     }
 }
 
+class NirvanaWebView: WebView {
+    override func keyDown(theEvent: NSEvent) {
+        // no-op (intercept key events to prevent system error sound)
+    }
+}
+
 class ViewController: NSViewController {
     
     @IBOutlet weak var webView: WebView!
